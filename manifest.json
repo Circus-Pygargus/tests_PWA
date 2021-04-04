@@ -1,6 +1,6 @@
 {
-  "name": "Hello World",
-  "short_name": "Hello",
+  "name": "Hello World 2",
+  "short_name": "Hello 2",
   "icons": [{
     "src": "images/app-icons/hello-icon-128.png",
     "sizes": "128x128",
